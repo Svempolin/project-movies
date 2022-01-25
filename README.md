@@ -12,4 +12,4 @@ If we had more time we would maybe experiment more with styling of the page in m
 
 ## View it live
 
-Please check out our page online here: XXXX.netlify.com
+Please check out our page online here: https://movieselector.netlify.app/
